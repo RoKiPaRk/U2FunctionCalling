@@ -1,5 +1,6 @@
 chainlit
 requests
+UOFast
 langchain
 llm-axe
 langchain_experimental
